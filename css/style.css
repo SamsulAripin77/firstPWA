@@ -1,0 +1,9 @@
+.img {
+    background-image: url("Assets/earth.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h5 {
+    color: white;
+}
